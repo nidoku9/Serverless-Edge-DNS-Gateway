@@ -2308,6 +2308,7 @@
 61011fc558.com
 6118a9c9fe.171c856581.com
 612.com
+612b0abb8f.9c431580d3.com
 612fc22a02.com
 613f15a070.com
 616book.com
@@ -11433,7 +11434,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -17739,6 +17739,7 @@ analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.sharecare.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -21360,7 +21361,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -22229,6 +22229,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -30102,7 +30103,6 @@ bxbtbf.msccruises.no
 bxbuvv.zeelool.com
 bxcebt.enjoyyourcamera.com
 bxdeaeieixgkf.store
-bxdrrkfeichhms.com
 bxekozqvwcqeg.space
 bxerfbkaoasof.space
 bxfvaugytecwq.online
@@ -33227,6 +33227,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -45895,7 +45896,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -58784,7 +58784,6 @@ fakxqq.cn
 fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.pixanalytics.com
@@ -58792,9 +58791,7 @@ falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -62139,7 +62136,6 @@ freefr-fixed.mno.link
 freefromads.com
 freefromads.pro
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -82043,7 +82039,6 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
-jordan.qunis.ru
 jornal.tesouros-da-julia.com
 jornaya.com
 joryvztqojsig.space
@@ -85987,6 +85982,7 @@ lawfulpatience.com
 lawgxwwkgxuho.space
 lawksister.shop
 lawmakecluther.com
+lawperspective.com
 lawrieominousclogwyn.cfd
 lawyeritalyaching.com
 lawyerleads.pxf.io
@@ -86021,7 +86017,6 @@ lazada.bet
 lazada.demdex.net
 lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
-lazada77.com
 lazadaapp.shop
 lazalogistics.ph
 lazboy.demdex.net
@@ -94285,7 +94280,6 @@ lowlifewhateverspotless.com
 lowmothandhadb.org
 lownet.fr
 loworiginatepalette.com
-lowrihouston.pro
 lowtrainer.com
 loxitdat.com
 loy356.site
@@ -98048,6 +98042,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -121126,6 +121121,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -134450,6 +134446,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -149019,6 +149016,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -151590,6 +151588,7 @@ sonar-pat1-1.xx.fbcdn.net
 sonar-phl2-1.xx.fbcdn.net
 sonar-phx.xx.fbcdn.net
 sonar-phx1-1.xx.fbcdn.net
+sonar-pmo.xx.fbcdn.net
 sonar-pmo1-1.xx.fbcdn.net
 sonar-poa.xx.fbcdn.net
 sonar-poa1-1.xx.fbcdn.net
@@ -155961,6 +155960,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
@@ -158627,7 +158627,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -181271,7 +181270,6 @@ umguf.samialert.com
 umgzvlbrqzyeq.online
 umh.mybluehost.me
 umhkzidngrmor.website
-umhtpaohymjwy.com
 umhyck.belvilla.com
 umi.cloudful.de
 umid.xuexi.cn
@@ -184326,7 +184324,6 @@ vebmmcatswbwv.com
 vebv8me7q.com
 vechainofficial.org
 vectaury.io
-vectoio.net
 vector.co
 vectormarketing.com
 vectorpulsemesh8.cyou
@@ -190545,7 +190542,6 @@ wtag.estlier.net
 wtb-tag.mikmak.ai
 wtb-tag.swaven.com
 wtbevents.pricespider.com
-wtcailhxmpge.com
 wtdshzjdlppil.online
 wtdtqt.efireplacestore.com
 wtdttepdbcpnx.site
@@ -190903,7 +190899,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -192148,7 +192143,6 @@ www.primecrestnq.name
 www.proadscdn.com
 www.procarsharing.store
 www.profitablecpmratenetwork.com
-www.profitshare.bg
 www.promomasters.at
 www.promoskills.com
 www.propellerclick.com
@@ -195550,7 +195544,6 @@ yardianalytics.com
 yardnamesake.com
 yardr.net
 yardstick.bitchute.com
-yardtoexperience.net
 yarezo.vendee-tourisme.com
 yariman.online
 yaroec.plytki-lazienki.pl
