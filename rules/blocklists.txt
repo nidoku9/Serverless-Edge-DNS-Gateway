@@ -15094,8 +15094,6 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
@@ -16075,7 +16073,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -21454,7 +21451,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -31711,7 +31707,6 @@ capi.iceworld.tech
 capi.iconshopper.com
 capi.ieltsadvantage.com
 capi.ieltsprof.com
-capi.iftacare.shop
 capi.imbmasnasulasa.com
 capi.imersaoclinicadesucesso.com
 capi.jlorrainecustomdesigns.com
@@ -48210,6 +48205,7 @@ dc.zalesoutlet.com
 dc01p-net-sslvpn0-ra.net.jumia.com.gh
 dc036be5b9.com
 dc08i221b0n8a.cloudfront.net
+dc121677.com
 dc16888888.com
 dc2.credit-suisse.com
 dc29ad7002.eb5882aef0.com
@@ -66725,6 +66721,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -100397,6 +100394,7 @@ mediafirex.icu
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -111203,6 +111201,7 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nycandcompany.demdex.net
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -120568,6 +120567,7 @@ pinniped.quarantinecup.live
 pinniped.resist.bot
 pinniped.spacecountdown.com
 pinnulepagedom.com
+pinptg.milleni.com.tr
 pinsightmedia.com
 pinsonsnunnari.qpon
 pintanoembaysohmic.cfd
@@ -121361,6 +121361,7 @@ platesskull.com
 platform-api.sharethis.com
 platform-cdn.sharethis.com
 platform-insights-collector.newrelic.com
+platform-metrics-api.sharethis.com
 platform-metrics.key.com
 platform.33across.com
 platform.adcannyads.com
@@ -135743,6 +135744,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -150418,6 +150420,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -155258,6 +155261,7 @@ ss.easyredmine.com
 ss.ebaren.dk
 ss.ebeltoftstrandcamping.dk
 ss.ebrand.hu
+ss.echosofamsterdam.nl
 ss.ecobio.fi
 ss.ecocasse.fr
 ss.ecologiavital.com
@@ -155914,7 +155918,6 @@ ss.myinvestingclub.com
 ss.mylondonpharmacy.co.uk
 ss.mynewart.fr
 ss.mynewart.nl
-ss.mysticgardenfestival.nl
 ss.nadeci.pl
 ss.nadzwyczajnie.pl
 ss.nakanpets.com
@@ -156470,6 +156473,7 @@ ss.tiempodenegocios.com
 ss.tiendapharmaris.com
 ss.tiendavocal.cl
 ss.tigerfunded.com
+ss.tijdmasjien.nl
 ss.tikraysas.com
 ss.ting55.com
 ss.tipshi.com
@@ -156650,6 +156654,7 @@ ss.wifiboostpro.com
 ss.wiggydogshop.com
 ss.wikinggulve.dk
 ss.winbance.com
+ss.wintergardenfestival.nl
 ss.wisdify.com
 ss.wisperbikes.com
 ss.wisprflow.ai
@@ -173258,7 +173263,6 @@ thirstybunch.pro
 thirstyquiet.com
 thirteenpun.com
 thirty-good.lugg.com
-this.com
 thiscdn.com
 thisdomainisfortracking.org
 thisisarray.com
@@ -184219,7 +184223,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -198968,6 +198971,7 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z680.beaumontenterprise.com
